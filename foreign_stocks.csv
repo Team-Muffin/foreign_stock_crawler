@@ -1,0 +1,201 @@
+code,stockName,stockNameEng,openPrice,nationType
+MSFT,마이크로소프트,Microsoft Corp,424.7,USA
+AAPL,애플,Apple Inc,196.9,USA
+NVDA,엔비디아,NVIDIA Corp,120.37,USA
+AMZN,아마존닷컴,Amazon.com Inc,184.07,USA
+META,메타 플랫폼스,Meta Platforms Inc,493.86,USA
+GOOGL,알파벳 Class A,Alphabet Inc Class A,174.97,USA
+GOOG,알파벳 Class C,Alphabet Inc Class C,176.45,USA
+AVGO,브로드컴,Broadcom Inc,1409.8,USA
+TSLA,테슬라,Tesla Inc,176.06,USA
+ASML,ASML 홀딩 ADR,ASML Holding NV ADR,1016.14,USA
+COST,코스트코 홀세일,Costco Wholesale Corp,847.18,USA
+NFLX,넷플릭스,Netflix Inc,641.01,USA
+AMD,어드밴스드 마이크로 디바이시스(AMD),Advanced Micro Devices Inc,162.48,USA
+AZN,아스트라제네카 ADR,AstraZeneca PLC ADR,80.22,USA
+PEP,펩시코,PepsiCo Inc,170.11,USA
+QCOM,퀄컴,Qualcomm Inc,205.29,USA
+TMUS,T-모바일 US,T-Mobile US Inc,179.93,USA
+ADBE,어도비,Adobe Inc,453.84,USA
+LIN,린드,Linde PLC,432.73,USA
+PDD,핀둬둬 ADR,PDD Holdings Inc ADR,143.66,USA
+SLM,SLM,SLM Corp,20.72,USA
+TMDX,트랜스메딕스 그룹,Transmedics Group Inc,135.21,USA
+NVEI,뉴베이,Nuvei Corp,32.15,USA
+FELE,프랭클린 일렉트릭,Franklin Electric Co Inc,95.4,USA
+CRDO,크레도 테크놀로지 그룹 홀딩,Credo Technology Group Holding Ltd,27.83,USA
+SBNY,Signature Bank,Signature Bank,70.0,USA
+FIZZ,내셔널 베버리지,National Beverage Corp,46.45,USA
+OZK,뱅크 오즈크,Bank Ozk,38.0,USA
+UBSI,유나이티드 뱅크셰어스(Nasdaq GS),United Bankshares Inc,31.55,USA
+VRRM,베라 모빌리티,Verra Mobility Corp,26.15,USA
+IAC,IAC,IAC Inc,49.47,USA
+ALVO,알보테크,Alvotech SA,13.98,USA
+LOPE,그랜드 캐년 에듀케이션,Grand Canyon Education Inc,141.94,USA
+POWI,파워 인티그레이션,Power Integrations Inc,73.32,USA
+GBDC,골럽 캐피탈 BDC,Golub Capital BDC Inc,16.1,USA
+IBRX,이뮤니티바이오,Immunitybio Inc,6.05,USA
+TIGO,밀리콤 인터내셔널 셀룰러,Millicom International Cellular SA,24.37,USA
+PI,임핀지,Impinj Inc,148.4,USA
+TSEM,타워 세미컨덕터,Tower Semiconductor Ltd,37.28,USA
+FORM,폼팩터,FormFactor Inc,52.56,USA
+CENX,센추리 알루미늄,Century Aluminum Co,15.69,USA
+KALU,카이저 알루미늄,Kaiser Aluminum Corp,90.23,USA
+TLRY,틸레이 브랜즈,Tilray Brands Inc,1.78,USA
+LGND,리간드 파마슈티컬스,Ligand Pharmaceuticals Inc,80.61,USA
+AVDL,아바델 파마슈티컬스 ADR,Avadel Pharmaceuticals PLC,15.41,USA
+CRCT,크리컷,Cricut Inc,6.7,USA
+MRTN,마텐 트랜스포트,Marten Transport Ltd,17.57,USA
+EVBG,에버브릿지,Everbridge Inc,34.68,USA
+SUPN,슈퍼누스 파마슈티컬스,Supernus Pharmaceuticals Inc,25.99,USA
+ATEC,알파텍 홀딩스,Alphatec Holdings Inc,10.2,USA
+DSGR,디스트리뷰션 솔루션스 그룹,Distribution Solutions Group Inc,30.55,USA
+MXL,맥스리니어,Maxlinear Inc,16.85,USA
+EFSC,엔터프라이즈 파이낸셜 서비스,Enterprise Financial Services Corp,37.82,USA
+UPWK,업워크,Upwork Inc,10.62,USA
+AFYA,아피야,Afya Ltd,16.1,USA
+PRDO,퍼도세오 에듀케이션,Perdoceo Education Corp,21.56,USA
+MRX,마렉스 그룹,Marex Group PLC,19.89,USA
+OXLC,옥스포드 레인 캐피털,Oxford Lane Capital Corp,5.67,USA
+BMBL,범블,Bumble Inc,11.1,USA
+ANIP,ANI 파마슈티컬스,ANI Pharmaceuticals Inc,65.68,USA
+MITK,마이텍 시스템즈,Mitek Systems Inc,12.13,USA
+GOOD,글래드스톤 커머셜,Gladstone Commercial Corp,14.35,USA
+VINP,빈치 파트너스 인베스트먼츠,Vinci Partners Investments Ltd,10.55,USA
+NNDM,나노 디멘션 ADR,Nano Dimension Ltd ADR,2.55,USA
+NWTN,이스트 스톤 애퀴지션,NWTN Inc,2.0,USA
+PHAR,파밍 그룹 ADR,Pharming Group NV ADR,8.06,USA
+LXEO,렉시오 테라퓨틱스,Lexeo Therapeutics Inc,17.11,USA
+FRPH,FRP 홀딩스,FRP Holdings Inc,29.9,USA
+KYTX,카이버나 테라퓨틱스,Kyverna Therapeutics Inc,13.13,USA
+TREE,렌딩트리,Lendingtree Inc,42.08,USA
+MLAB,메사 래보라토리스,Mesa Laboratories Inc,103.76,USA
+CASS,캐스 인포메이션 시스템즈,Cass Information Systems Inc,40.97,USA
+ERAS,이래스카,Erasca Inc,2.35,USA
+SCWX,시큐어웍스,SecureWorks Corp,6.01,USA
+CLFD,클리어필드,Clearfield Inc,38.95,USA
+GRPN,그루폰,Groupon Inc,14.31,USA
+LASR,엔라이트,nLIGHT Inc,11.65,USA
+LUNR,인튜이티브 머신스,Intuitive Machines Inc,4.52,USA
+ALTI,알티 글로벌,AlTi Global  Inc,4.68,USA
+CGNT,코그나이트 소프트웨어,Cognyte Software Ltd,7.78,USA
+JRVR,제임스 리버 그룹 홀딩스,James River Group Holdings Ltd,7.51,USA
+WTBA,웨스트 뱅코프,West Bancorporation Inc,16.87,USA
+MGNX,매크로제닉스,MacroGenics Inc,4.45,USA
+CRMD,코메딕스,CorMedix Inc,5.12,USA
+USAP,유니버설 스테인리스 & 앨로이 프로덕츠,Universal Stainless & Alloy Products Inc,31.44,USA
+IVCAU,Investcorp India Acquisition Units,Investcorp India Acquisition Units,10.96,USA
+QRTEA,큐레이트 리테일 시리즈 A,Qurate Retail Inc Series A,0.72,USA
+GAMB,갬블링닷컴 그룹,Gambling.com Group Ltd,7.71,USA
+EMLDU,FTAC Emerald Acquisition Units,FTAC Emerald Acquisition Units,10.96,USA
+RVNC,레반스 테라퓨틱스,Revance Therapeutics Inc,2.66,USA
+NATR,네이처스 선샤인 프로덕츠,Nature's Sunshine Products Inc,14.87,USA
+UHG,유나이티드 홈즈 그룹,United Homes Group Inc,5.89,USA
+FBIZ,퍼스트 비즈니스 파이낸셜 서비스,First Business Financial Services Inc,33.73,USA
+XOMA,조마,XOMA Corp,23.5,USA
+VBNK,버사뱅크,VersaBank,10.81,USA
+PFTAU,Perception Capital Units,Perception Capital Units,10.8,USA
+NATH,네이선스 페이머스,Nathan's Famous Inc,69.2,USA
+VMD,비메드 헬스케어,Viemed Healthcare Inc,7.15,USA
+RCKY,로키 브랜즈,Rocky Brands Inc,37.76,USA
+IMAQU,International Media Acquisition Units,International Media Acquisition Units,12.15,USA
+FULTP,풀턴 파이낸셜 우선주 시리즈 A 5.125%,Fulton Financial 1 40th DS Cum Prf Shs Series A,19.04,USA
+ALCYU,Alchemy Investments Acquisition 1 Units,Alchemy Investments Acquisition 1 Units,10.77,USA
+OPTN,옵티노우즈,OptiNose Inc,1.07,USA
+AENT,얼라이언스 엔터테인먼트 홀딩,Alliance Entertainment Holding Corp,3.02,USA
+III,인포메이션 서비스 그룹,Information Services Group Inc,3.16,USA
+DSY,플루토니안 애퀴지션,Plutonian Acquisition Corp,3.94,USA
+RELL,리처드슨 일렉트로닉스,Richardson Electronics Ltd,10.65,USA
+ESHA,ESH 애퀴지션,ESH Acquisition Corp,10.43,USA
+FNGR,핑거모션,FingerMotion Inc,2.94,USA
+ADVM,애드베럼 바이오테크놀로지스,Adverum Biotechnologies Inc,7.34,USA
+BDSX,바이오데식스,Biodesix Inc,1.35,USA
+RCMT,RCM 테크놀로지스,R C M Technologies Inc,19.49,USA
+SIFY,사이피 테크놀러지 ADR,Sify Technologies Ltd ADR,0.68,USA
+IMAB,아이맵 ADR,I-Mab ADR,1.91,USA
+PESI,퍼마-픽스 인바이런먼털 서비스,Perma-Fix Environmental Services Inc,9.6,USA
+KOD,코디악 사이언스,Kodiak Sciences Inc,2.85,USA
+HOWL,웨어울프 테라퓨틱스,Werewolf Therapeutics Inc,3.18,USA
+PWOD,펜스 우즈 뱅코프,Penns Woods Bancorp Inc,20.22,USA
+STI,솔리디온 테크놀로지,Solidion Technology Inc,1.71,USA
+CFFI,C&F 파이낸셜,C&F Financial Corp,44.31,USA
+IKNA,아이케나 온콜로지,Ikena Oncology Inc,1.75,USA
+SCYX,사이넥시스,SCYNEXIS Inc,2.2,USA
+BUJA,부킷 잘릴 글로벌 애퀴지션 1,Bukit Jalil Global Acquisition 1 Ltd,10.74,USA
+FORA,포리안,Forian Inc,2.78,USA
+SLS,셀라스 라이프 사이언스 그룹,Sellas Life Sciences Group Inc,1.36,USA
+CMRX,키메릭스,Chimerix Inc,0.91,USA
+BIRD,올버즈,Allbirds Inc,0.53,USA
+VOR,보어 바이오파마,Vor Biopharma Inc,1.2,USA
+EMCG,임브레이스 체인지 애퀴지션,Embrace Change Acquisition Corp,11.26,USA
+MRNS,매리너스 파마슈티컬스,Marinus Pharmaceuticals Inc,1.5,USA
+BUJAU,Bukit Jalil Global Acquisition 1 Units,Bukit Jalil Global Acquisition 1 Units,10.71,USA
+SURG,서지페이즈,Surgepays Inc,4.3,USA
+ELUT,엘루시아,Elutia Inc,3.34,USA
+FIAC,포커스 임팩트 애퀴지션,Focus Impact Acquisition Corp,11.1,USA
+MAXN,맥시온솔라테크놀로지스,Maxeon Solar Technologies Ltd,1.53,USA
+GLST,글로벌 스타 애퀴지션,Global Star Acquisition Inc,11.44,USA
+IRAA,아이리스 애퀴지션,Iris Acquisition Corp,11.45,USA
+SIEB,시버트 파이낸셜 코퍼레이션,Siebert Financial Corp,2.07,USA
+BLEU,블루아카시아,Bleuacacia Ltd,10.91,USA
+RSSS,리서치 솔루션스,Research Solutions Inc,2.51,USA
+CDTG,CDT 인바이어런먼털 테크놀로지 인베스트먼트 홀딩스,CDT Environmental Technology Investment Holdings Ltd,4.12,USA
+OSS,원 스탑 시스템,One Stop Systems Inc,2.21,USA
+LINK,인터링크 일렉트로닉스,Interlink Electronics Inc,4.26,USA
+BLAC,벨뷰 라이프 사이언시스 애퀴지션,Bellevue Life Sciences Acquisition Corp,10.74,USA
+YOTA,요타 애퀴지션,Yotta Acquisition Corp,11.0,USA
+DXR,닥소,Daxor Corp,9.05,USA
+AIRE,리알파 테크,reAlpha Tech Corp,1.0,USA
+DUET,듀엣 애퀴지션,DUET Acquisition Corp,11.06,USA
+OPHC,옵티멈뱅크 홀딩스,OptimumBank Holdings Inc,4.47,USA
+CPTN,셉톤,Cepton Inc,2.84,USA
+HSON,허드슨 글로벌,Hudson Global Inc,15.2,USA
+RVPH,리비바 파마슈티컬스 홀딩스,Reviva Pharmaceuticals Holdings  Inc.,1.42,USA
+OKYO,OKYO 파마 ADR,OKYO Pharma Ltd,1.39,USA
+AADI,아디 바이오사이언스,Aadi Bioscience Inc,1.72,USA
+PODC,포드캐스톤,Podcastone Inc,1.81,USA
+CODX,코다이아그나스틱스,Co-Diagnostics Inc,1.45,USA
+KOSS,코스,Koss Corp,4.45,USA
+ALGS,앨리고스 테라퓨틱스,Aligos Therapeutics Inc,0.55,USA
+LEXX,렉사리아 바이오사이언스,Lexaria Bioscience Corp,3.3,USA
+RAND,랜드 캐피탈,Rand Capital Corp,16.9,USA
+VERB,버브 테크놀러지,Verb Technology Company Inc,0.14,USA
+MTEX,매나테크,Mannatech Inc,8.0,USA
+DXYN,딕시 그룹,Dixie Group Inc,0.92,USA
+CMMB,키모맵 테라퓨틱스 ADR,Chemomab Therapeutics Ltd ADR,1.05,USA
+SGLY,싱귤러리티 퓨처 테크놀로지,Singularity Future Technology Ltd,3.98,USA
+FTFT,퓨처 핀테크 그룹,Future Fintech Group Inc,0.75,USA
+FLGC,플로라 그로스,Flora Growth Corp,1.2,USA
+EDUC,에듀케이셔널 디벨롭먼트,Educational Development Corp,1.71,USA
+FRES,프레시2 그룹 ADR,Fresh2 Group Ltd ADR,0.41,USA
+MNPR,모노파 테라퓨틱스,Monopar Therapeutics Inc,0.84,USA
+INTJ,인텔리전트 그룹,Intelligent Group Ltd,1.05,USA
+QTI,QT 이미징 홀딩스,QT Imaging Holdings Inc,0.67,USA
+YJ,윤지 ADR,Yunji Inc ADR,0.7,USA
+GLTO,갈렉토,Galecto Inc,0.53,USA
+ASTR,아스트라 스페이스,Astra Space Inc,0.59,USA
+ELSE,일렉트로-센서스,Electro-Sensors Inc,4.04,USA
+UCAR,유 파워,U Power Ltd,5.38,USA
+YGMZ,명주 로지스틱 홀딩스,MingZhu Logistics Holdings Ltd,0.36,USA
+HYW,해인 금융 지주 그룹 ADR,Hywin Holdings Ltd ADR,0.42,USA
+ONVO,오가노보 홀딩스,Organovo Holdings Inc,0.97,USA
+DBGI,디지털 브랜즈 그룹,Digital Brands Group Inc,1.61,USA
+CYTO,알타미라 테라퓨틱스,Altamira Therapeutics Ltd,1.39,USA
+SNOA,소노마 파머수티컬스,Sonoma Pharmaceuticals Inc,0.21,USA
+ATXI,애버뉴 테라퓨틱스,Avenue Therapeutics Inc,3.37,USA
+XYLO,자일로 테크놀로지스 ADR,Xylo Technologies Ltd ADR,1.65,USA
+XHG,X체인지 TEC.INC ADR,XChange TEC.INC ADR,0.74,USA
+FRGT,프라이트 테크놀로지스,Freight Technologies Inc,0.59,USA
+SINT,SINTX 테크놀로지스,SINTX Technologies Inc,5.04,USA
+HSDT,헬리우스 메디컬 테크놀로지스,Helius Medical Technologies Inc,1.23,USA
+TCON,트라콘 파마슈티컬스,TRACON Pharmaceuticals Inc,1.13,USA
+SBET,샤프링크 게이밍,Sharplink Gaming Inc,0.9,USA
+AUUD,아우디아,Auddia Inc,1.08,USA
+BACK,IMAC 홀딩스,IMAC Holdings Inc,2.52,USA
+INVO,INVO 바이오사이언스,INVO Bioscience Inc,0.77,USA
+ZCMD,중차오,Zhongchao Inc,1.17,USA
+AEMD,애슬론 메디컬,Aethlon Medical Inc,0.55,USA
+CYCC,사이클라셀 파마슈티컬스,Cyclacel Pharmaceuticals Inc,1.94,USA
+WNW,메이우 테크놀로지,Meiwu Technology Co Ltd,1.03,USA
+SEEL,실로스 테라퓨틱스,Seelos Therapeutics Inc,1.09,USA
+MVLA,모벨라 홀딩스,Movella Holdings Inc,,USA
